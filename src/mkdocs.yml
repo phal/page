@@ -1,1 +1,12 @@
-#
+
+site_name: Test docs
+site_description: 'A docs test'
+site_author: 'Phal Tatla'
+docs_dir: docs/
+repo_name: 'phal/page'
+repo_url: 'https://github.com/phal/page'
+nav:
+    - Home: index.md
+theme:
+  name: 'material'
+  
